@@ -3,7 +3,6 @@ import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
 
 // import "./App.css";
-import styles from "./App.module.css";
 
 const initialExpenses = [
   {
