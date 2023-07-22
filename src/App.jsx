@@ -3,6 +3,7 @@ import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
 
 // import "./App.css";
+// eslint-disable-next-line no-unused-vars
 import styles from "./App.module.css";
 const initialExpenses = [
   {
